@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h2 align="center" >The dev-first issue tracking tool. Open-source, customisable and lightweight. </h3>
+<h2 align="center" >The dev-first issue tracking tool. Open-source, customizable and lightweight. </h3>
 
 <p align="center"><a href="https://www.tegon.ai"> Website</a> · <a href="https://docs.tegon.ai/introduction"> Documentation</a> ·  <a href="https://join.slack.com/t/tegoncommunity/shared_invite/zt-2jvar8p1x-9wqFTL9PP5ICImb76qcjEA"> Join our Slack</a>
 <br />
